@@ -1,7 +1,7 @@
 ### Hi there welcome to my github account 👋
 
 <div align="center">
-  <img src="https://giphy.com/gifs/animation-ryan-seslow-3osxYc2axjCJNsCXyE" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="600" height="300"/>
 </div>
 
 - 🫅 I’m @dsprincess
