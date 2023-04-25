@@ -1,7 +1,7 @@
 ### Hi there, welcome to my GitHub account! 👋
 ---
 
-<div align="left">
+<div align="center">
   <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="300" height="120"/>
 </div>
 
