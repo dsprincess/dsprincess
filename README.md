@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="200" height="50"/>
+  <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="200" height="80"/>
 </div>
 ### Hi there welcome to my github account 👋
 - 🫅 I’m @dsprincess
