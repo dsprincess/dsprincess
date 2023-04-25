@@ -1,6 +1,6 @@
 ### Hi there welcome to my github account 👋
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="300" height="120"/>
 </div>
 
