@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="300" height="120"/>
 </div>
 
----
 
 - 🫅 I’m @dsprincess.
 - 👀 I’m a CPA who is trying to shift to Data Analytics and later on to Data Science.
