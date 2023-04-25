@@ -1,7 +1,7 @@
 ### Hi there welcome to my github account 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="200" height="80"/>
+  <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="300" height="120"/>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 - 🌱 I’m Batch 7 DS Scholar of FTW Foundation. I saved here some of my key exercises in the program.
 - 🔭 You can also check out my personal projects, and I hope you could leave some comments and suggestions.
 - 🤔 I’m looking for advice from peeps who are also CPA-to-tech career shifters.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white )(https://www.linkedin.com/in/princess-shaira-abo-abo)]
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princess-shaira-abo-abo)
 - ⚡ Below are my teck stack:
     ✔️Reporting and Data Analysis: Microsoft Excel (Pivot, Basic Excel VBA, Power Query, Power Pivot, Analysis ToolPak)
     ✔️Bookkeeping: Oracle NetSuite, QuickBooks
