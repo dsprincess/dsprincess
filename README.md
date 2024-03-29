@@ -10,7 +10,7 @@
 - 👀 I’m a CPA who is now in Business Intelligence landscape and planning to take later the Data Science field.
 - 🌱 I’m Batch 7 DS Scholar of FTW Foundation. I saved here some of my key exercises in the program.
 - 🔭 You can also check out my personal projects, and I hope you could leave some comments and suggestions.
-- 🤔 I’m looking for advice from peeps who are also CPA-to-tech career shifters or from anyone who could share valuable feedback on my work .
+- 🤔 I’m looking for advice from peeps who are also Accounting-to-tech career shifters or from anyone who could share valuable feedback on my work .
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princess-shaira-abo-abo)
 - ⚡ Below are my teck stack:
     ✔️Reporting and Data Analysis: Microsoft Excel (Pivot, Basic Excel VBA, Power Query, Power Pivot, Analysis ToolPak)
