@@ -17,7 +17,7 @@
     ✔️Bookkeeping: Oracle NetSuite, QuickBooks
     ✔️Programming: SQL; Python for Data Science (NumPy, Pandas)
     ✔️Machine learning and statistics: Supervised Learning (Regression and Classification), Unsupervised Learning (Clustering)
-    ✔️Data visualization: Tableau; Power BI, Python (Matplotlib, Seaborn)
+    ✔️Data visualization: Tableau; Power BI, Python (Matplotlib, Seaborn), Google Looker
 
 
 
