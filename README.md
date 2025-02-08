@@ -12,12 +12,13 @@
 - 🔭 You can also check out my personal projects, and I hope you could leave some comments and suggestions.
 - 🤔 I’m looking for advice from peeps who are also Accounting-to-tech career shifters or from anyone who could share valuable feedback on my work .
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princess-shaira-abo-abo)
-- ⚡ Below are my teck stack:
+- ⚡ Below are my tech stack:
     ✔️Reporting and Data Analysis: Microsoft Excel (Pivot, Basic Excel VBA, Power Query, Power Pivot, Analysis ToolPak)
     ✔️Bookkeeping: Oracle NetSuite, QuickBooks
     ✔️Programming: SQL; Python for Data Science (NumPy, Pandas)
     ✔️Machine learning and statistics: Supervised Learning (Regression and Classification), Unsupervised Learning (Clustering)
     ✔️Data visualization: Tableau; Power BI, Python (Matplotlib, Seaborn), Google Looker
+    ✔️Cloud: BAsics on Azure and AWS
 
 
 
